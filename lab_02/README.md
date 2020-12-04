@@ -1,6 +1,7 @@
 # Lending Club
 - Sara Bengoechea Rodríguez - sara.bengoechea@cunef.edu
 - Beatriz Cárdaba Rico - beatriz.cardaba@cunef.edu
+
 En este proyecto se desarrollan diferentes modelos de Machine Learning. El objetivo es realizar una clasificación y posteriro predicción de diferentes créditos en función si se han pagado por completo o no. Se usarán diferentes variables explicativas para determinar esta variable binaria('fully_paid' o diferente)
 Para ello se han realizado diferentes trasnformaciones y selecciones en las variables aportadas. Se ha creado un test set y un traning set para entrenar y evaluar los modelos definidos: null model, logit, svm, random forest y xgboost. 
 
@@ -41,83 +42,83 @@ Este proceso consta de estas etapas:
 ## 02 - Lasso
 
 ## 03 - Train-Test Set  & Null Model
- 	-  - Libraries Import
-    - Data Import
-    - Data Scale
-    - Train & Test set
-    - Balance set
-    - __NULL MODEL__
-        - Function 
-        - Training
-        - Confussion Matrix
-        - Accuracy
-        - ROC Curve
-    - References
+-  - Libraries Import
+- Data Import
+- Data Scale
+- Train & Test set
+- Balance set
+- __NULL MODEL__
+    - Function 
+    - Training
+    - Confussion Matrix
+    - Accuracy
+    - ROC Curve
+- References
 
 ## 04 - Logit Model
- 	-  - Libraries Import
-    - Data Import
-    - Data Scale
-    - Train & Test set
-    - Balance set
-    - __NULL MODEL__
-        - Function 
-        - Training
-        - Confussion Matrix
-        - Accuracy
-        - ROC Curve
-    - References
+- Libraries Import
+- Data Import
+- Data Scale
+- Train & Test set
+- Balance set
+- __NULL MODEL__
+    - Function 
+    - Training
+    - Confussion Matrix
+    - Accuracy
+    - ROC Curve
+- References
 
 ## 05 - SVM
- 	-  - Libraries Import
-    - Data Import
-    - Data Scale
-    - Train & Test set
-    - Balance set
-    - __NULL MODEL__
-        - Function 
-        - Training
-        - Confussion Matrix
-        - Accuracy
-        - ROC Curve
-    - References
+-  - Libraries Import
+- Data Import
+- Data Scale
+- Train & Test set
+- Balance set
+- __NULL MODEL__
+    - Function 
+    - Training
+    - Confussion Matrix
+    - Accuracy
+    - ROC Curve
+- References
 
 ## 06 - Random Forest
- 	-  - Libraries Import
-    - Data Import
-    - Data Scale
-    - Train & Test set
-    - Balance set
-     __NULL MODEL__
-        - Function 
-        - Training
-        - Confussion Matrix
-        - Accuracy
-        - ROC Curve
-    - References
+- Libraries Import
+- Data Import
+- Data Scale
+- Train & Test set
+- Balance set
+ __NULL MODEL__
+    - Function 
+    - Training
+    - Confussion Matrix
+    - Accuracy
+    - ROC Curve
+- References
 
 ## 07 - XgBoost
- 	-  - Libraries Import
-    - Data Import
-    - Data Scale
-    - Train & Test set
-    - Balance set
-    - __NULL MODEL__
-        - Function 
-        - Training
-        - Confussion Matrix
-        - Accuracy
-        - ROC Curve
-    - References
+- Libraries Import
+- Data Import
+- Data Scale
+- Train & Test set
+- Balance set
+- __NULL MODEL__
+    - Function 
+    - Training
+    - Confussion Matrix
+    - Accuracy
+    - ROC Curve
+- References
 
 ## 08 - Best Model
- 	- Libraries Import
-    - Data Import
-    - Models Import
-    - Confusion Matrix
-    - Best Model
-    - Hyperparamtres
-    - Conclussion
-    - References
+- Libraries Import
+- Data Import
+- Models Import
+- Confusion Matrix
+- Best Model
+- Hyperparamtres
+- Conclussion
+- References
 
 ## Data Cleaning Test
