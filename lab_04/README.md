@@ -1,4 +1,4 @@
-##Sistema de Recomendación de Películas:
+## Sistema de Recomendación de Películas:
 __Sara Bengoechea y Beatriz Cárdaba__
 Objetivo:
 El objetivo de este trabajo es al creción de un sistema de recomención de películas en base a diferentes criterios. Para ello se estudiarán e implementarán diferentes algoritmos. La bases de datos utilizada es de Kagle, se utilñizarán datos de 45.000 películas, género, arget de edad, popularidad... y datos de las votaciones por ususario para definir algoritmos basados en las peliculas y en los ususarios que las visualizan.
